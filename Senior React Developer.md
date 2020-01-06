@@ -5,7 +5,7 @@ Want to help build a new platform for a world known brand? Enjoy working in cutt
 ## Who we are
 Serving customers from Amsterdam to Tel Aviv, we’re proud to be Continental Europe’s leading online food delivery service. But just like our delivery drivers, we never stand still. Based in our tech hub in Netherlands’ Enschede, our React Developer has an inspiring base from which to produce innovative work.
 
-##What you'll do
+## What you'll do
 You’re tasked with helping rewrite the Takeaway.com platform from scratch, using modern Frontend tech stack. We processed over 90 million orders last year, and now we’re looking to migrate and grow our platform. You’ll be helping improve existing features and adding new ones.
 
 While you’ll be learning skills on the job, prior experience with React.js combined with Redux would help you hit the ground running. We’re also hoping you can combine your tech skills with a knack for problem-solving and an ability to deal with matters like performance budgets.

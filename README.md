@@ -4,7 +4,7 @@ As Takeaway.com, we are proud to be one of the world's leading food delivery mar
 
 Check out our vacancies. We've got a whole bunch of them 🚀👾
 
-- [Senior PHP developer (Laravel / Symfony)][1]
+- [Senior Software Engineer][1]
 - [PHP Developer][2]
 - [Senior Test Automation Engineer][3]
 - [Senior React Developer][4]
